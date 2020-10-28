@@ -144,7 +144,7 @@ a:hover {
 }
 
 .container > header nav a:hover:after {
-	color: #fff;
+	color: #000;
 }
 
 .bp-icon-next:after {
