@@ -1,8 +1,7 @@
 name: Soy Padrino/Madrina HOPE
 markdown: redcarpet
-pygments: true
 permalink: /:year/:month/:title/
 url: https://soyhope.github.io/
 author:
-    name: Adjetey Sowah
-    twitter: #
+    name: Gustavo Lizárraga
+    twitter: lizarragadev
